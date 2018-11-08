@@ -1,35 +1,38 @@
 <style>
 .tugg-widget-container {
-    background-color: transparent;
+	background-color: transparent;
 }
 .tugg-logo-name {
-    color: white !important;
-    font-family: Impact, Charcoal, sans-serif !important;
+	color: white !important;
+	font-family: Impact, Charcoal, sans-serif !important;
 }
 .title-details .col-xs-12 {
-    color: white !important;
-    font-family: Impact, Charcoal, sans-serif !important;
+	color: white !important;
+	font-family: Impact, Charcoal, sans-serif !important;
 }
 .no-margin-t {
-    color: white !important;
-    font-family: Impact, Charcoal, sans-serif !important;
+	color: white !important;
+	font-family: Impact, Charcoal, sans-serif !important;
 }
 .margin-t-8 {
-    color: white !important;
-    font-family: Impact, Charcoal, sans-serif !important;
+	color: white !important;
+	font-family: Impact, Charcoal, sans-serif !important;
 }
 .font-20 {
-    color: white !important;
-    font-family: Impact, Charcoal, sans-serif !important;
+	color: white !important;
+	font-family: Impact, Charcoal, sans-serif !important;
 }
 .margin-t-6 {
-    color: white !important;
-    font-family: Impact, Charcoal, sans-serif !important;
+	color: white !important;
+	font-family: Impact, Charcoal, sans-serif !important;
 }
 .hidden-xs {
-    display: none !important;
+	display: none !important;
 }
 div br {
-  display: none;
+	display: none;
+}
+iframe {
+	overflow: hidden;
 }
 </style>
