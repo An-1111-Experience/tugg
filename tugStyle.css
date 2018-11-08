@@ -1,4 +1,3 @@
-<style>
 .tugg-widget-container {
     background-color: transparent;
 }
@@ -23,7 +22,3 @@
 .hidden-xs {
     display: none !important;
 }
-.hidden-xs img {
-    display: none !important;
-}
-</style>
