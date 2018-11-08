@@ -29,4 +29,7 @@
 .hidden-xs {
     display: none !important;
 }
+div br {
+  display: none;
+}
 </style>
