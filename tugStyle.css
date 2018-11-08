@@ -1,4 +1,7 @@
 <style>
+#form-box > div.title-details {
+	margin-top: -20px !important;
+}
 .tugg-widget-container {
 	background-color: transparent;
 }
