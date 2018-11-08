@@ -18,6 +18,12 @@
     color: white !important;
 }
 .margin-t-6 {
-    color: white;
+    color: white !important;
+}
+.hidden-xs {
+    display: none !important;
+}
+.hidden-xs img {
+    display: none !important;
 }
 </style>
