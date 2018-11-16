@@ -53,7 +53,7 @@ iframe {
     font-family: Impact, Charcoal, sans-serif !important;
 }
 #form-box > div.widget-event-list-container > div > div {
-    height: 600px;
+    height: 600px !important;
 }
 #form-box > div.title-details > div:nth-child(1) > div > div {
     display: none !important;
