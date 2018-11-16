@@ -39,6 +39,9 @@
 .hidden-xs {
     display: none !important;
 }
+#form-box > div.row > div > div {
+    display: none !important;
+}
 div br {
     display: none;
 }
