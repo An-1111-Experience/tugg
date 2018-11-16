@@ -51,6 +51,7 @@ iframe {
 #list_view > div.widget-event-list.widget-upcoming-event {
     color: white !important;
     font-family: Impact, Charcoal, sans-serif !important;
+    height: 600px !important;
 }
 #form-box > div.widget-event-list-container > div > div {
     height: 600px !important;
