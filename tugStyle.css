@@ -48,4 +48,8 @@ div br {
 iframe {
     overflow: hidden;
 }
+#list_view > div.widget-event-list.widget-upcoming-event{
+    color: white !important;
+    font-family: Impact, Charcoal, sans-serif !important;
+}
 </style>
